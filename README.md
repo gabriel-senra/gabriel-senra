@@ -15,4 +15,4 @@ I'm studying computer science at Providence College, with an expected graduation
 [LinkedIn](https://www.linkedin.com/in/gabriel-senra-b52632358/) · [Email](mailto:gabrielbsenra@gmail.com)
 
 
-Full product source remains private. [Engineering Examples](https://github.com/gabriel-senra/engineering-examples) contains separately prepared, runnable code and tests.
+Full product source remains private. Runnable C++ and TypeScript components are available in [Engineering Examples](https://github.com/gabriel-senra/engineering-examples).
