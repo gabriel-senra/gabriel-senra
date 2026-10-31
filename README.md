@@ -1,16 +1,20 @@
-## Hi there 👋
+# Gabriel Senra
 
-<!--
-**gabriel-senra/gabriel-senra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm studying computer science at Providence College, with an expected graduation in May 2029. I'm also a pianist and enjoy building music tools. I care about the engineering that makes an instrument feel immediate: reliable audio, clear controls, and software that stays out of the musician's way.
 
-Here are some ideas to get you started:
+## Selected engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What I built | Engineering focus |
+| --- | --- | --- |
+| [Tape](https://github.com/gabriel-senra/tape-showcase) | A C++ / JUCE four-track recorder prototype for macOS | Real-time messaging, background WAV streaming, frame-aligned overdubs and non-destructive history |
+| [Chord Synthesizer](https://github.com/gabriel-senra/chord-synthesizer-showcase) | An ESP32 / AMY instrument for triggering multi-note chords | Physical controls, note lifecycles and a constrained voice budget |
+| [Chord Chart Generator MCP](https://github.com/gabriel-senra/chord-chart-generator-showcase) | A TypeScript tool for displaying chord diagrams in assistant conversations | Structured tool interfaces and reusable rendering |
+
+**Languages:** C++, Python, TypeScript. **Tools:** JUCE, ESP32, AMY, CMake, Git and automated testing.
+
+I also play piano and work in live audio. Those experiences shape the tools I want to build: easy to pick up, expressive, and dependable during a performance.
+
+[LinkedIn](https://www.linkedin.com/in/gabriel-senra-b52632358/) · [Email](mailto:gabrielbsenra@gmail.com)
+
+
+Full product source remains private. [Engineering Examples](https://github.com/gabriel-senra/engineering-examples) contains separately prepared, runnable code and tests.
