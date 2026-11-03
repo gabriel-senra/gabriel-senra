@@ -1,6 +1,6 @@
 # Gabriel Senra
 
-I'm studying computer science at Providence College, with an expected graduation in May 2029. I'm also a pianist and enjoy building tools that make music creation and enjoyment more intuitive, fun, and beautiful.
+I'm studying computer science at Providence College, with an expected graduation in May 2029. I'm also a pianist and enjoy building tools that make music creation and enjoyment more intuitive and fun.
 
 ## Personal projects
 
