@@ -4,11 +4,10 @@ I'm studying computer science at Providence College, with an expected graduation
 
 ## Selected projects
 
-| Project | What I built | Engineering focus |
-| --- | --- | --- |
-| [Tape](https://github.com/gabriel-senra/tape-showcase) | A C++ / JUCE four-track recorder prototype for macOS | Keeping audio responsive, aligning new recordings and making edits reversible |
-| [Chord Synthesizer](https://github.com/gabriel-senra/chord-synthesizer-showcase) | An ESP32 / AMY instrument for triggering multi-note chords | Reading physical controls and managing the notes that make up a chord |
-| [Chord Chart Generator MCP](https://github.com/gabriel-senra/chord-chart-generator-showcase) | A TypeScript tool for displaying chord diagrams in assistant conversations | Turning musical requests into validated data, diagrams and notation |
+
+[Tape](https://github.com/gabriel-senra/tape-showcase) | A C++ / JUCE four-track recorder prototype for macOS 
+[Chord Synthesizer](https://github.com/gabriel-senra/chord-synthesizer-showcase) | An ESP32 / AMY instrument for triggering multi-note chords 
+[Chord Chart Generator MCP](https://github.com/gabriel-senra/chord-chart-generator-showcase) | A TypeScript tool for displaying chord diagrams in assistant conversations
 
 **Languages:** C++, Python, TypeScript. **Tools:** JUCE, ESP32, AMY, CMake, Git.
 
